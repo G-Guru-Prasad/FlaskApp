@@ -12,7 +12,7 @@ This Flask application simulates a simplified data retrieval and processing syst
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/G-Guru-Prasad/MovieCollection
+    git clone https://github.com/G-Guru-Prasad/FlaskApp
     cd MovieCollectionProject
     ```
 
