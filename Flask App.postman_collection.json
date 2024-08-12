@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "dd65d94c-ec3b-4473-a4d1-7d14b4bce931",
+		"name": "Flask App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37387616"
+	},
+	"item": [
+		{
+			"name": "Get Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:5000/fetch-data"
+			},
+			"response": []
+		},
+		{
+			"name": "Store data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://127.0.0.1:5000/process-data"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Processed data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://127.0.0.1:5000/get-processed-data"
+			},
+			"response": []
+		}
+	]
+}
