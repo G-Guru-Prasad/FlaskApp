@@ -13,7 +13,7 @@ This Flask application simulates a simplified data retrieval and processing syst
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/G-Guru-Prasad/FlaskApp
-    cd MovieCollectionProject
+    cd FlaskApp
     ```
 
 2. **Create a virtual environment and activate it:**
